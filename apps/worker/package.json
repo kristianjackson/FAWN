@@ -1,0 +1,13 @@
+{
+  "name": "@fawn/worker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc -b"
+  },
+  "devDependencies": {
+    "wrangler": "^3.57.0"
+  }
+}

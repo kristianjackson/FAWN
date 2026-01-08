@@ -1,0 +1,8 @@
+{
+  "name": "@fawn/ui",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -b"
+  }
+}
