@@ -9,4 +9,4 @@ database_id = "${D1_DATABASE_ID}"
 
 [[r2_buckets]]
 binding = "ASSETS"
-bucket_name = "${R2_BUCKET_NAME}"
+bucket_name = "lumenary-r2bucket"
